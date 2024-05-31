@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.eeb80100.css",
+    "main.js": "/portfolio/static/js/main.82741ccb.js",
+    "static/js/453.50ba56e4.chunk.js": "/portfolio/static/js/453.50ba56e4.chunk.js",
+    "static/media/JSonLaptop-600px.webp": "/portfolio/static/media/JSonLaptop-600px.9410a865b1b00237a09e.webp",
+    "static/media/sophie-bluel-0.webp": "/portfolio/static/media/sophie-bluel-0.dcefbfe37c88416f23fa.webp",
+    "static/media/nina-carducci-0.webp": "/portfolio/static/media/nina-carducci-0.f40cb1c129e9fe331e31.webp",
+    "static/media/kasa-0.webp": "/portfolio/static/media/kasa-0.e57dea1fba407bc974de.webp",
+    "static/media/booki-0.webp": "/portfolio/static/media/booki-0.9596da4aac4bddd0652e.webp",
+    "static/media/ohmyfood-0.webp": "/portfolio/static/media/ohmyfood-0.035c98bd41eedf0a12e0.webp",
+    "static/media/argent-bank-0.webp": "/portfolio/static/media/argent-bank-0.fb48988a15e4176362b9.webp",
+    "static/media/wp-flowers-comp-cut-darken.webp": "/portfolio/static/media/wp-flowers-comp-cut-darken.5ff22c13ec950ec13ec5.webp",
+    "static/media/sass.svg": "/portfolio/static/media/sass.fb123914eb0e5cc6e0a6.svg",
+    "static/media/nodejs.svg": "/portfolio/static/media/nodejs.7a1d504e4e868b16b043.svg",
+    "static/media/vscode.svg": "/portfolio/static/media/vscode.ae90970b7990088d824d.svg",
+    "static/media/bootstrap.svg": "/portfolio/static/media/bootstrap.3921423f83a2e8e5c237.svg",
+    "static/media/react.svg": "/portfolio/static/media/react.4e0c97009b885bfa75c5.svg",
+    "static/media/swagger.svg": "/portfolio/static/media/swagger.8de2cede5316c898d783.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.3c903c66b2c5334c8c0b.svg",
+    "static/media/redux.svg": "/portfolio/static/media/redux.2fa08b46b0c0e7372c20.svg",
+    "static/media/javascript.svg": "/portfolio/static/media/javascript.4c1b5332c1b1057928f6.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/css3.svg": "/portfolio/static/media/css3.39769a8bd378bf410d6b.svg",
+    "static/media/git.svg": "/portfolio/static/media/git.c08353563539c6459b35.svg",
+    "static/media/html5.svg": "/portfolio/static/media/html5.8664168d5bc90b1a2439.svg",
+    "static/media/figma.svg": "/portfolio/static/media/figma.2c2c9d7ff067a3272fbc.svg",
+    "static/media/npm.svg": "/portfolio/static/media/npm.87689eab730642c86d2b.svg",
+    "main.eeb80100.css.map": "/portfolio/static/css/main.eeb80100.css.map",
+    "main.82741ccb.js.map": "/portfolio/static/js/main.82741ccb.js.map",
+    "453.50ba56e4.chunk.js.map": "/portfolio/static/js/453.50ba56e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeb80100.css",
+    "static/js/main.82741ccb.js"
+  ]
+}
