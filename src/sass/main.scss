@@ -1,0 +1,17 @@
+@import "./colors";
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "./breakpoints";
+@import "./mixins";
+@import "./myfonts";
+@import "./global";
+@import "../components/Header/style.scss";
+@import "../components/Footer/style.scss";
+@import "../components/Error/style.scss";
+@import "../containers/Welcome/style.scss";
+@import "../containers/About/style.scss";
+@import "../containers/MySkills/style.scss";
+@import "../containers/MyProjects/style.scss";
+@import "../components/Gallery/style.scss";
+@import "../components/ProjectCard/style.scss";
+@import "../components/ProjectTag/style.scss";
+@import "../containers/Contact/style.scss";

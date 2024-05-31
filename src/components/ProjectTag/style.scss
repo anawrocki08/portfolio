@@ -1,0 +1,9 @@
+.project-tag {
+  @include flex-2center;
+  background-color: $blue-2;
+  color: white;
+  font-size: 12px;
+  padding: 3px 10px;
+  border-radius: 10px;
+
+}

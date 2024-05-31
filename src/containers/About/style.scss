@@ -1,0 +1,38 @@
+.about {
+  background-color: white;
+  padding: 50px 30px;
+  display: flex;
+  flex-direction: column;
+
+  h2 {
+    color: $fuschia-pink;
+  }
+
+  p {
+    color: black;
+    justify-content: center;
+  }
+  .about-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    &__img {
+      display: none;
+      object-fit: cover;
+
+      @include tablet-and-desktop {
+        display: flex;
+        width: 33%;
+      }
+    }
+
+    &__text {
+      width: 100%;
+      text-align: justify;
+      @include tablet-and-desktop {
+        width: 60%;
+      }
+    }
+  }
+}

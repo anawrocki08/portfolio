@@ -1,0 +1,14 @@
+.myprojects {
+  background-color: white;
+  padding: 50px 30px;
+  display: flex;
+  flex-direction: column;
+}
+.myprojects h2 {
+  color: $fuschia-pink;
+}
+
+.myprojects p {
+  color: black;
+  justify-content: center;
+}

@@ -1,0 +1,15 @@
+.footer__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100px;
+  background-color: $dark-blue-1 !important;
+  color: white;
+  font-weight: 600;
+  font-size: 12px;
+
+  @include tablet-and-desktop {
+    font-size: 14px;
+  }
+}

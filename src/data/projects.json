@@ -1,0 +1,74 @@
+[
+  {
+    "id": "p3-oc",
+    "title": "Booki",
+    "type": "Projet OpenClassrooms",
+    "cover": "booki-0.webp",
+    "alt": "Aperçu du site de l'agence Booki",
+    "summary": "Création d'un site web responsive avec HTML et CSS à partir d'une maquette Figma",
+    "description": "",
+    "tags": ["HTML", "CSS", "Responsive", "Figma"],
+    "github": "https://github.com/CrazyCat08/Booki",
+    "site": "https://crazycat08.github.io/Booki/"
+  },
+  {
+    "id": "p4-oc",
+    "title": "OhMyFood",
+    "type": "Projet OpenClassrooms",
+    "cover": "ohmyfood-0.webp",
+    "alt": "Aperçu du site OhMyFood",
+    "summary": "Création en mobile-first de pages dynamiques avec des animations CSS",
+    "description": "",
+    "tags": ["HTML", "CSS", "Sass", "Animations", "Responsive", "Figma"],
+    "github": "https://github.com/CrazyCat08/P4-Ohmyfood",
+    "site": "https://crazycat08.github.io/P4-Ohmyfood/"
+  },
+  {
+    "id": "p6-oc",
+    "title": "Sophie Bluel - Architecte",
+    "type": "Projet OpenClassrooms",
+    "cover": "sophie-bluel-0.webp",
+    "alt": "Aperçu du site de l'architecte Sophie Bluel",
+    "summary": "Mise en place du front-end du portfolio d'une architecte avec gestion de la connexion administrateur, filtrage des projets et la possibilité d'effacer ou ajouter des projets.",
+    "description": "",
+    "tags": ["HTML", "CSS", "Javascript", "Requêtes API", "Responsive"],
+    "github": "https://github.com/CrazyCat08/P6-site-architecte-sophie-bluel",
+    "site": ""
+  },
+  {
+    "id": "p8-oc",
+    "title": "Kasa",
+    "type": "Projet OpenClassrooms",
+    "cover": "kasa-0.webp",
+    "alt": "Aperçu du site de l'agence immobilière Kasa",
+    "summary": "Création d'une application web avec React et React-Router",
+    "description": "",
+    "tags": ["HTML", "CSS", "Sass", "Javascript", "React", "React-router"],
+    "github": "https://github.com/CrazyCat08/Kasa",
+    "site": "https://crazycat08.github.io/Kasa/"
+  },
+  {
+    "id": "p9-oc",
+    "title": "Nina carducci - Photographe",
+    "type": "Projet OpenClassrooms",
+    "cover": "nina-carducci-0.webp",
+    "alt": "Aperçu du portfolio de la photographe Nina Carducci",
+    "summary": "Refonte du site d'une photographe pour optimiser la visilité, la performance et le référencement du site.",
+    "description": "",
+    "tags": ["HTML", "CSS", "SEO"],
+    "github": "https://github.com/CrazyCat08/P9-Nina-Carducci",
+    "site": "https://crazycat08.github.io/P9-Nina-Carducci/"
+  },
+  {
+    "id": "p11-oc",
+    "title": "ArgentBank",
+    "type": "Projet OpenClassrooms",
+    "cover": "argent-bank-0.webp",
+    "alt": "Aperçu du site de la banque en ligne Argent Bank",
+    "summary": "Mise en place du front-end d'une application bancaire avec gestion de la connexion utilisateur et de l'état global de l'app avec Redux.",
+    "description": "",
+    "tags": ["HTML", "CSS", "React", "Redux", "Swagger"],
+    "github": "https://github.com/CrazyCat08/P11-ArgentBank",
+    "site": ""
+  }
+]
