@@ -4,9 +4,10 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faPaperPlane } from "@fortawesome/free-solid-svg-icons";
+import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 function Welcome() {
-  const urlGithub = "https://github.com/CrazyCat08";
+  const urlGithub = "https://github.com/anawrocki08";
   const urlLinkedin = "#";
   const emailAddress = "anawrocki.dev@gmail.com";
 
@@ -37,7 +38,8 @@ function Welcome() {
         </div>
         <button className="contact-me" onClick={sendEmail}>
           <span className="contact-me__text">Contactez-moi:</span>
-          <FontAwesomeIcon className="contactme__icon" icon={faPaperPlane} />
+          {/* <FontAwesomeIcon className="contactme__icon" icon={faPaperPlane} /> */}
+          <FontAwesomeIcon className="contactme__icon" icon={faEnvelope} />
         </button>
       </div>
     </section>
