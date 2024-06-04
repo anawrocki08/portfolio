@@ -10,8 +10,8 @@
 
   p {
     color: black;
-    justify-content: center;
   }
+
   .about-content {
     display: flex;
     flex-direction: row;
@@ -29,9 +29,9 @@
 
     &__text {
       width: 100%;
-      text-align: justify;
       @include tablet-and-desktop {
         width: 60%;
+        text-align: justify;
       }
     }
   }
