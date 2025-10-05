@@ -1,72 +1,96 @@
 [
   {
     "id": "1",
+    "title": "Make",
+    "img": "make-color-logo.png",
+    "alt": "Logo Make"
+  },
+  {
+    "id": "2",
+    "title": "Airtable",
+    "img": "airtable-logo.png",
+    "alt": "Logo Airtable"
+  },
+  {
+    "id": "3",
+    "title": "Tally",
+    "img": "tally-logo.webp",
+    "alt": "Logo Tally"
+  },
+  {
+    "id": "4",
+    "title": "Notion",
+    "img": "notion-logo.png",
+    "alt": "Logo Notion"
+  },
+  {
+    "id": "5",
     "title": "HTML 5",
     "img": "html5.svg",
     "alt": "Logo HTML"
   },
   {
-    "id": "2",
+    "id": "6",
     "title": "CSS 3",
     "img": "css3.svg",
     "alt": "Logo CSS"
   },
   {
-    "id": "3",
+    "id": "7",
     "title": "Sass",
     "img": "sass.svg",
     "alt": "Logo Sass"
   },
   {
-    "id": "4",
+    "id": "8",
     "title": "JavaScript",
     "img": "javascript.svg",
     "alt": "Logo JavaScript"
   },
   {
-    "id": "5",
+    "id": "9",
     "title": "ReactJS",
     "img": "react.svg",
     "alt": "Logo React"
   },
   {
-    "id": "6",
+    "id": "10",
     "title": "Redux",
     "img": "redux.svg",
     "alt": "Logo Redux"
   },
   {
-    "id": "7",
+    "id": "11",
     "title": "Bootstrap",
     "img": "bootstrap.svg",
     "alt": "Logo Bootstrap"
   },
   {
-    "id": "8",
+    "id": "12",
     "title": "Git",
     "img": "git.svg",
     "alt": "Logo Git"
   },
   {
-    "id": "9",
+    "id": "13",
     "title": "GitHub",
     "img": "github.svg",
     "alt": "Logo GitHub"
   },
   {
-    "id": "10",
+    "id": "14",
     "title": "Figma",
     "img": "figma.svg",
     "alt": "Logo Figma"
   },
   {
-    "id": "11",
+    "id": "15",
     "title": "VScode",
     "img": "vscode.svg",
     "alt": "Logo VScode"
   },
   {
-    "id": "12",
+    "id": "16",
     "title": "Swagger",
     "img": "swagger.svg",
     "alt": "Logo Swagger"

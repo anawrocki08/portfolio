@@ -166,9 +166,7 @@ function MyProjects() {
                   De Prospect à Projet en un éclair
                 </p>
                 <div className="mycrm-card__screenshot-placeholder">
-                  {/* Remplacez par : <img src="/images/workflow-scenario1.png" alt="Workflow 1" /> */}
                   <img src={imgScenario1} alt="Workflow 1" />
-                  {/* [Insérer screenshot workflow 1] */}
                 </div>
               </div>
               <div className="mycrm-card__screenshot">
@@ -182,9 +180,7 @@ function MyProjects() {
                   Ne manquer aucune échéance
                 </p>
                 <div className="mycrm-card__screenshot-placeholder">
-                  {/* Remplacez par : <img src="/images/workflow-scenario2.png" alt="Workflow 2" /> */}
                   <img src={imgScenario2} alt="Workflow 2" />
-                  {/* [Insérer screenshot workflow 2] */}
                 </div>
               </div>
             </div>
