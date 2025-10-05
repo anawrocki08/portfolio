@@ -8,8 +8,8 @@ import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 function Welcome() {
   const urlGithub = "https://github.com/anawrocki08";
-  const urlLinkedin = "#";
-  const emailAddress = "anawrocki.dev@gmail.com";
+  const urlLinkedin = "https://www.linkedin.com/in/anne-nawrocki";
+  const emailAddress = "nawrocki.anne@gmail.com";
 
   function sendEmail() {
     window.location.href = `mailto:${emailAddress}`;
@@ -18,7 +18,7 @@ function Welcome() {
   return (
     <section id="welcome" className="welcome">
       <h1>Anne Nawrocki</h1>
-      <h2>Développeur front-end</h2>
+      <h2>Product Builder No-code & IA</h2>
       <div className="contact-list">
         <div className="social-networks">
           <NavLink
@@ -30,14 +30,14 @@ function Welcome() {
           </NavLink>
           <NavLink
             to={urlLinkedin}
-            // target="_blank"
+            target="_blank"
             title="lien vers profil linkedin"
           >
             <FontAwesomeIcon className="sn-icon" icon={faLinkedin} />
           </NavLink>
         </div>
         <button className="contact-me" onClick={sendEmail}>
-          <span className="contact-me__text">Contactez-moi:</span>
+          <span className="contact-me__text">Me contacter</span>
           {/* <FontAwesomeIcon className="contactme__icon" icon={faPaperPlane} /> */}
           <FontAwesomeIcon className="contactme__icon" icon={faEnvelope} />
         </button>
