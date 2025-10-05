@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.11440236.css",
-    "main.js": "/portfolio/static/js/main.82741ccb.js",
+    "main.css": "/portfolio/static/css/main.5019ab71.css",
+    "main.js": "/portfolio/static/js/main.44874658.js",
     "static/js/453.50ba56e4.chunk.js": "/portfolio/static/js/453.50ba56e4.chunk.js",
+    "static/media/make-color-logo.png": "/portfolio/static/media/make-color-logo.43ab3391eff29e4c7c0a.png",
     "static/media/JSonLaptop-600px.webp": "/portfolio/static/media/JSonLaptop-600px.9410a865b1b00237a09e.webp",
     "static/media/sophie-bluel-0.webp": "/portfolio/static/media/sophie-bluel-0.dcefbfe37c88416f23fa.webp",
     "static/media/nina-carducci-0.webp": "/portfolio/static/media/nina-carducci-0.f40cb1c129e9fe331e31.webp",
@@ -10,9 +11,12 @@
     "static/media/booki-0.webp": "/portfolio/static/media/booki-0.9596da4aac4bddd0652e.webp",
     "static/media/ohmyfood-0.webp": "/portfolio/static/media/ohmyfood-0.035c98bd41eedf0a12e0.webp",
     "static/media/argent-bank-0.webp": "/portfolio/static/media/argent-bank-0.fb48988a15e4176362b9.webp",
+    "static/media/workflow-scenario1.webp": "/portfolio/static/media/workflow-scenario1.a1fa44b700dacf89e899.webp",
+    "static/media/workflow-scenario2.webp": "/portfolio/static/media/workflow-scenario2.fd07d888e97ea2a1e64d.webp",
     "static/media/wp-flowers-comp-cut-darken.webp": "/portfolio/static/media/wp-flowers-comp-cut-darken.5ff22c13ec950ec13ec5.webp",
     "static/media/sass.svg": "/portfolio/static/media/sass.fb123914eb0e5cc6e0a6.svg",
     "static/media/nodejs.svg": "/portfolio/static/media/nodejs.7a1d504e4e868b16b043.svg",
+    "static/media/tally-logo.webp": "/portfolio/static/media/tally-logo.cce5bda00ba042e680c8.webp",
     "static/media/vscode.svg": "/portfolio/static/media/vscode.ae90970b7990088d824d.svg",
     "static/media/bootstrap.svg": "/portfolio/static/media/bootstrap.3921423f83a2e8e5c237.svg",
     "static/media/react.svg": "/portfolio/static/media/react.4e0c97009b885bfa75c5.svg",
@@ -26,12 +30,12 @@
     "static/media/html5.svg": "/portfolio/static/media/html5.8664168d5bc90b1a2439.svg",
     "static/media/figma.svg": "/portfolio/static/media/figma.2c2c9d7ff067a3272fbc.svg",
     "static/media/npm.svg": "/portfolio/static/media/npm.87689eab730642c86d2b.svg",
-    "main.11440236.css.map": "/portfolio/static/css/main.11440236.css.map",
-    "main.82741ccb.js.map": "/portfolio/static/js/main.82741ccb.js.map",
+    "main.5019ab71.css.map": "/portfolio/static/css/main.5019ab71.css.map",
+    "main.44874658.js.map": "/portfolio/static/js/main.44874658.js.map",
     "453.50ba56e4.chunk.js.map": "/portfolio/static/js/453.50ba56e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11440236.css",
-    "static/js/main.82741ccb.js"
+    "static/css/main.5019ab71.css",
+    "static/js/main.44874658.js"
   ]
 }
